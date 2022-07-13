@@ -6,15 +6,4 @@ div {
     font-weight: 700;
     text-align: center;
 }
-p {
-    color: white;
-    background-color: green;
-    font-size: 50px;
-    font-weight: 350;
-}
-button {
-    color: black;
-    background-color: orange;
-    font-size: 25px;
-    border-color: grey;
-}
+
